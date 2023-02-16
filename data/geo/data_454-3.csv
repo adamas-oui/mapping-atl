@@ -1,0 +1,90 @@
+year,city_states,lat,lon,tribute_val,Col,comments
+454,Stageira,40.5926245,23.7939045,100,1,
+454,Pharbelos,nan,nan,100,1,The place is unknown. It ceased to pay after the revolt of Bottike and Chalkidike in 432/1 B.C
+454,Elaia,38.8078,27.2323,100,1,"The city is between Smyra and Pergamon in Turkey. Para munian, going to ATL pp. 523, Myrina. Myrina is by the sea, so I chose Siyekli to be a hypothetically rough location.  "
+454,Ephesos,37.9407625,27.340307,4500,1,
+454,Ainos,40.7248985,26.085729,7200,1,Witnessed successive lowering of tributes. 
+454,Naxia,37.59888,27.690896,100,1,
+454,Madnasa,37.088887,27.359987,1200,1,
+454,Erodos,nan,nan,50,2,
+454,Skione,39.939063,23.574785,nan,2,
+454,Therambos,39.95,23.66667,3600,2,
+454,Priene,37.66,27.298333,600,2,
+454,Kudaies,37.2487,27.5287,40,2,"It should be near to Chalketor (modern day Karakuyu, Milas, Turkey). I placed the location at the city of Kıyıkı_lacık in Milas."
+454,Priapos,40.403338,27.303743,50,2,
+454,Thyssos,40.288017,24.158674,400,2,
+454,Torone,39.9766652,23.90445065,7200,2,
+454,Karystos,38.016541,24.420381,7200,2,
+454,Perkote,40.273913,26.588806,100,2,
+454,Peparethos,39.119096,23.719616,1800,2,
+454,Haison,39.3623245,22.89310505,150,2,
+454,Sambaktos,nan,nan,640,2,
+454,Chersonesos,36.74421855,28.17047012,10800,2,
+454,Abydos,40.1951155,26.409131,2622,2,
+454,Pedasa,37.054602,27.412789,1200,3,"Extensive survey of the location is available. The city paid 2 talents in the first period and then 1 in the second period. ATL places it south of Latmos, probably on Mt. Grion. In Caria. "
+454,Astyra,40.043192,26.682841,50,3,"In Mysia, near the Troad"
+454,Byzantion,41.005902,28.9738815,9000,3,
+454,Kameiros,36.336185,27.921195,5400,3,
+454,Therma in Ikaros,37.6305806,26.0732143,300,3,
+454,Daunion,41.053506,28.038408,40,3,
+454,Samothrace,40.50370085,25.53004955,3600,3,
+454,Astypalaia,36.57888616,26.36489173,1200,3,
+454,Mende,39.971454,23.39806,4800,3,
+454,Selymbria,41.078496,28.247677,5400,3,
+454,Aige,39.978627,23.666064,200,3,
+454,Kolophon,38.108253,27.1483085,1800,3,
+454,Notion,37.9952785,27.200852,200,3,
+454,Diosera,38.1876,26.7776,100,3,"A small peninsula, near the mouth of the Astes River. The site might lie further to the southeast. I chose Sı_acık for its coordinates. In Ionia."
+454,Spartolos,40.316347,23.159843,1200,3,
+454,Hairai,38.203961,26.701321,1800,3,
+454,Lindos Oiai,36.0913239,28.0881777,330,3,In the territory of Lindos on the west coast lay the town of Oiai. 
+454,Astakos,40.714558,29.928794,900,3,
+454,Neopolis,39.988,23.614,300,3,"same as Aige, it is also on the northeastern shore of Pallene. Hdt. 7.123. Pleiades doesn’t have it, so I placed it as the modern village Pefkochori. "
+454,Maiandros,37.751855,27.410275,400,3,
+454,Maroneia,40.87545426,25.5140402,900,4,
+454,Lindos,36.0913239,28.0881777,5070,4,
+454,Oine in Ikaros,37.6305806,26.0732143,800,4,
+454,Hessos,nan,nan,600,4,
+454,Neandreia,39.72369396,26.27322157,200,4,
+454,Lamponeia,39.538105,26.421229,100,4,
+454,Halikarnassos,37.042901,27.420201,1000,4,
+454,Strepsa,40.483197,23.138509,600,4,
+454,Galepsos,40.740429,23.986017,900,4,"In Thrace, on the coast east of Amphipolis."
+454,Kyrbissos,37.1022,28.4178,200,4,"Kyllandos and Kyrbissos occur frequently together in the tribute list. We may infer that they were accustomed to send their tribute by the same boat, and that Kyrbissos must be sited near Kyllandos. I chose the coordinates of the city Ula to locate it. "
+454,Didymotoichon,41.053506,28.038408,100,4,“Twin Fort”. On the north shore of the Propontis. 
+454,Dikaiopolis,40.4952,22.9886,2400,4,"It pays a talent fairly every year except in 454 it pays four talents, which covers the payment of Aineia as well. According to Pliny, it is in a journey between Aineia and Poteidaia, and in a geographical list between Therme and Poteidaia. I chose Neo Rysio, a city between Aineia and Therme to locate it. "
+454,Klazomenia,38.36785825,26.77774005,900,4,
+454,Argilos,40.7819725,23.8123785,900,4,
+454,Karbasyanda,36.8354,28.5498,100,4,"It is placed opposite Pasanda, on the left as one sailed up to Kaunos River. I located it to modern-day Ekincik. "
+454,Phaselis,36.52349219,30.55216653,3600,4,
+454,Termera,36.995872,27.298363,1500,4,
+454,Kebrene,39.741803,26.563032,1800,4,
+454,Kasolabeis,nan,nan,250,4,
+454,Dikaia by Abdera,40.99287,25.165653,300,4,Near modern-day Porto Lagos.
+454,Abdera,40.93950935,24.9795992,7722,5,
+454,"Olynthos, Skabla, Asseritis",40.29529741,23.35422086,1600,5,
+454,Sermylia,40.298222,23.539631,4632,5,
+454,Mekyberna,40.278319,23.396101,nan,5,
+454,"Stolos, Polichne",40.369151,23.664835,1388,5,
+454,Singos,40.24917,23.721477,nan,5,
+454,Thasos,40.683333,24.65,1800,5,
+454,Mysia,40.614722,29.708333,200,5,It is likely but not certain if this is same as the Mysia in Chersonese modified later in A9. It is in the peninsula of Mt. Arganthonios so I locate it at the mountain. 
+454,Pikres Syangela,37.050371,27.570356,300,5,Named after the dynast of Syangela. 
+454,Kedriai,36.993043,28.2067955,300,5,
+454,Keramos,37.041728,27.9562175,900,5,
+454,Boutheia,38.327245,26.307181,nan,5,
+454,Kyllandos,37.067654,28.442249,1200,5,
+454,Chios in Karia,38.37641,26.1342335,200,5,
+454,Narisbara,37.5,27.58333,100,6,"It could be connected to the modern town Narasar, where there is an early site on the southern hills of Mount Latmos. "
+454,Mydon,37.59888,27.690896,150,6,
+454,Kios,40.432469,29.15639,100,6,
+454,Artake,40.375,27.786,200,6,
+454,Neopolis in Thrace,41.51783037,26.9624138,100,6,Unable to find any information regarding this. I locate it roughly in Thrace. 
+454,Berytis below Mt. Ida,39.68594277,26.82655293,100,6,"The ancient Berytis lays in the modern town Bairamitsch, but I could not find this. I located it with the coordinates of Mt. Ida."
+454,Auliatai Kares,nan,nan,50,6,
+454,Ios,36.716667,25.333333,600,6,
+454,Parion,40.42369835,27.07026171,600,6,
+454,Daskyleion in Propontis,40.13238909,28.05077673,50,6,
+454,Aigina,37.7409397,23.430141,18000,6,
+454,Miletos of Leros,37.1953268,26.8224439,1800,6,That Leros was colonized by Miletos before the removal of the Delian treasury to Athens is shown by the entry of this year. 
+454,Miletos of Techiossos,37.353179,27.457993,nan,6,
